@@ -35,6 +35,7 @@ Few bugs here and there,
 No Click event listener on all tracks list.
 
 # Important: 
-This is backend for the "X Music Player". Set local path to "..\X Music Player\songs" folder in "MusicUpload.java" file before running the project.
+####This is backend for the "X Music Player" frontend.
+Set local path to "..\X Music Player\songs" folder in "MusicUpload.java" file before running the project.
 "MusicUpload.java" is present in "xmusic" folder. Variable name: MUSIC_UPLOAD_DIR. "songs" folder contains uploaded songs and
 fetched album art images.
