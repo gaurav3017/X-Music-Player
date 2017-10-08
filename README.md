@@ -1,5 +1,5 @@
 # X-Music-Player
-Restful web service based music player developed in Java and Javascript.
+Restful web service based music player developed in Java and Javascript. Web service for X Music Player.
 
 ![captureee](https://user-images.githubusercontent.com/9462473/31319678-6ca970d6-ac85-11e7-871c-20c95ba8dd7f.PNG)
 
